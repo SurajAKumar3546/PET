@@ -1,0 +1,48 @@
+#btn-k:hover{
+    background-color: aliceblue;
+    color: rgb(14, 14, 147);
+    border:2px double rgb(14, 14, 147);
+}
+#btn-k{
+    font-weight: 700;
+    margin-left:4rem;width:200px;
+    height:50px;font-size: 20px;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgb(6, 6, 118);color: aliceblue;
+    border:2px double rgb(251, 251, 255);
+}
+#h,#a,#s,#pa{
+    color:black;
+    font-size: 20px;
+    font-weight: 600;
+}
+#h:hover{
+    text-decoration:2px underline orange;
+}
+#a:hover{
+    text-decoration:2px underline orange;
+}
+#s:hover{
+    text-decoration:2px underline orange;
+}
+#pr{
+    border:2px double rgb(251, 251, 255);
+    border-radius: 20px;
+    background-color: rgb(6, 6, 118);color: aliceblue;
+}
+#su{
+    border:2px double rgb(251, 251, 255);
+    border-radius: 20px;
+    background-color: rgb(12, 116, 47);color: aliceblue;
+}
+#su:hover{
+    border:2px double rgb(251, 251, 255);
+    color: white;background-color:rgb(12, 116, 47);
+}
+#pr:hover{
+    border:2px double rgb(251, 251, 255);
+    background-color: rgb(6, 6, 118);color: aliceblue;
+}
+
+
